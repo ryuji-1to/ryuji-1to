@@ -7,6 +7,6 @@
 
 
 
-- 🌱 I’m currently learning TypeScript, Next.js.
+- 🌱 I’m currently learning TypeScript and Next.js.
 - 🔫 hobby : 📖reading, 🎬movie, 💪🏻muscle training
 
