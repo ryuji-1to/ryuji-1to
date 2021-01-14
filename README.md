@@ -7,6 +7,6 @@
 
 
 - Skills : React, TypeScript, Next.js
-- 🌱 I’m currently learning Python and Django.
+- 🌱 I’m currently learning Node.js and Next.js.
 - 🔫 hobby : 📖reading, 🎬movie, 💪🏻muscle training
 
