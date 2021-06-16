@@ -1,5 +1,4 @@
-<image src="http://gph.is/1CJ2gxS" width="400px" />
-
+<iframe src="https://giphy.com/embed/ToMjGppLes0ENI5osCc" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-hot-fan-ToMjGppLes0ENI5osCc">via GIPHY</a></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuji-ito-0222&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
