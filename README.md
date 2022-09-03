@@ -3,7 +3,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuji-ito-0222&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuji-1to&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
